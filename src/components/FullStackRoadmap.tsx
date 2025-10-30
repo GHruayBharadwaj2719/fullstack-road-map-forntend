@@ -486,6 +486,10 @@ const FullStackRoadmap = () => {
             "Every expert was once a beginner. Happy learning!"
           </p>
         </div>
+        <div style={{ textAlign: 'center', margin: '16px 0', fontWeight: 'bold' }}>
+  This website is built by G Hruday Bharadwaj
+</div>
+
 
         <div className="mb-8 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg p-6 text-white shadow-lg">
           <div className="flex items-center justify-between flex-wrap gap-4">
